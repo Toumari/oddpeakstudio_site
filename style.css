@@ -1,11 +1,16 @@
-h1 {
-    font-family: Arial, Helvetica, sans-serif;
+
+body {
+    padding-top: 70px;
 }
 
-.title {
-    margin: auto;
+.jumbotron {
+    color: #233e50;
 }
 
-.pink {
-    background: pink;
+.img-thumbnail {
+   margin: 0 0 20px 0;
+}
+
+.navbar {
+    background-color: #233e50;
 }
